@@ -1,7 +1,7 @@
 {
-  "name": "koishi-plugin-dice",
-  "version": "1.0.0",
-  "description": "COC / DND Tools for Koishi",
+  "name": "@saarchaffee/koishi-plugin-dice",
+  "version": "1.0.1",
+  "description": "Dice for Koishi",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "engines": {
@@ -12,14 +12,21 @@
   ],
   "license": "MIT",
   "author": "Shigma <shigma10826@gmail.com>",
+  "contributors": [
+    {
+      "name": "SaarChaffee",
+      "email": "saarchaffee@qq.com",
+      "url": "https://github.com/SaarChaffee"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koishijs/koishi-plugin-dice.git"
+    "url": "git+https://github.com/SaarChaffee/koishi-plugin-dice.git"
   },
   "bugs": {
-    "url": "https://github.com/koishijs/koishi-plugin-dice/issues"
+    "url": "https://github.com/SaarChaffee/koishi-plugin-dice/issues"
   },
-  "homepage": "https://github.com/koishijs/koishi-plugin-dice",
+  "homepage": "https://github.com/SaarChaffee/koishi-plugin-dice",
   "keywords": [
     "bot",
     "qqbot",
