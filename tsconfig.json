@@ -11,9 +11,11 @@
     "esModuleInterop": true,
     "emitDeclarationOnly": true,
     "moduleResolution": "Bundler",
-    "strictBindCallApply": true
+    "strictBindCallApply": true,
+    "baseUrl": ".",
+    "paths": {
+      "@saarchaffee/koishi-plugin-dice": ["src"]
+    }
   },
-  "include": [
-    "src",
-  ],
+  "include": ["src"]
 }
